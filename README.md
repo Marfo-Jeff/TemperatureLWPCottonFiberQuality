@@ -1,2 +1,2 @@
 # TemperatureLWPCottonFiberQuality
-Cotton optimum planting date and fiber quality estimation with temperature and Leaf Water Potential Integration using genetic algorithm
+This repository has all the supplementary data related to the manuscript "Optimization of Cotton Planting Dates through Integrated Temperature and Water Stress Conditions: Implications for Fiber Quality in Mississippi."
